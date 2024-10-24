@@ -1,0 +1,15 @@
+/* código omitido */
+
+body {
+    background-color: #ffffff;
+    /* código omitido */
+}
+button {
+    background-color: #d863f0;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
